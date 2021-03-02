@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>  
+<documentelement> 
+    <employee>  
+    <id>1</id>  
+    <cmp_name>MCN Solutions Pvt Ltd</cmp_name>  
+    <address>Noida</address>  
+    </employee>-  
+    <employee>  
+    <id>2</id>  
+    <cmp_name>NIIT Limited</cmp_name>  
+    <address>Gurgao</address>  
+    </employee>-<employee>  
+    <id>3</id>  
+    <cmp_name>Cipla</cmp_name>  
+    <address>Delhi</address>  
+    </employee>-<employee>  
+    <id>4</id>  
+    <cmp_name>Tech Mahindra</cmp_name>  
+    <address>Noida</address>  
+    </employee>  
+</documentelement> 
